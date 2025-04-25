@@ -1,6 +1,3 @@
-#  Use if-elif-else to calculate the percentage of student from 5 subjects 
-#  and then print Grade. (‘A’ - >90, ‘B’ >=75, ‘C’ >= 60, ‘D’ >= 40, ‘F’ otherwise).
-#  Taking input for five subjects
 sub1 = float(input("Enter marks for Subject 1: "))
 sub2 = float(input("Enter marks for Subject 2: "))
 sub3 = float(input("Enter marks for Subject 3: "))
