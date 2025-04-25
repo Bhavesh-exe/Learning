@@ -1,4 +1,37 @@
 # Learning
-Things that I am learning or have learned
+This repository contains basic programming practice problems and their solutions.  
+It includes simple programs written in Python/C that help in understanding fundamental programming concepts.
 
-In this Reposatory I will be uploading Codes that i have Written while learning
+## 📂 Topics Covered
+
+- ✅ Factorial of a number
+- ✅ LCM and HCF
+- ✅ Prime number check
+- ✅ Palindrome check
+- ✅ Fibonacci series
+- ✅ Armstrong number
+- ✅ Pattern printing
+- ✅ Simple recursion problems
+
+These programs are useful for beginners who are just starting with coding.
+
+## 🚀 Languages Used
+
+- Python 🐍
+- C 
+
+## 📘 Purpose
+
+I have created this repository to:
+
+- Revisit and revise basic concepts
+- Keep all important logic-based programs in one place
+- Help beginners find short and easy-to-understand code examples
+
+## 🛠️ How to Use
+
+You can either copy-paste the code and run it in your local editor,  
+or clone the repo using:
+
+```bash
+git clone https://github.com/your-username/learning.git
