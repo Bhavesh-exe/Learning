@@ -5,11 +5,10 @@ It includes simple programs written in Python/C that help in understanding funda
 ## 📂 Topics Covered
 
 - ✅ Factorial of a number
-- ✅ LCM and HCF
+- ✅ Finding LCM
 - ✅ Prime number check
 - ✅ Palindrome check
 - ✅ Fibonacci series
-- ✅ Armstrong number
 - ✅ Pattern printing
 - ✅ Simple recursion problems
 
@@ -34,4 +33,4 @@ You can either copy-paste the code and run it in your local editor,
 or clone the repo using:
 
 ```bash
-git clone https://github.com/your-username/learning.git
+git clone https://github.com/bhavesh-exe/learning.git
