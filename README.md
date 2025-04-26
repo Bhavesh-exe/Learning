@@ -6,6 +6,7 @@ It includes simple programs written in Python/C that help in understanding funda
 - ✅ Calculating Percentage
 - ✅ Factorial of a number
 - ✅ Finding LCM
+- ✅ Checking Perfect Square
 - ✅ Prime number check
 - ✅ Palindrome check
 - ✅ Fibonacci series
@@ -17,7 +18,7 @@ These programs are useful for beginners who are just starting with coding.
 ## 🚀 Languages Used
 
 - Python 🐍
-- C 
+- C / C++
 
 ## 📘 Purpose
 
