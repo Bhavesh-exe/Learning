@@ -2,7 +2,7 @@
 This repository contains basic programming practice problems and their solutions.  
 It includes simple programs written in Python/C that help in understanding fundamental programming concepts.
 
-## 📂 Topics Covered
+## 📂 Programs List
 - ✅ Calculating Percentage
 - ✅ Factorial of a number
 - ✅ Finding LCM
