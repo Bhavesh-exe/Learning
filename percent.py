@@ -1,11 +1,9 @@
-sub1 = float(input("Enter marks for Subject 1: "))
-sub2 = float(input("Enter marks for Subject 2: "))
-sub3 = float(input("Enter marks for Subject 3: "))
-sub4 = float(input("Enter marks for Subject 4: "))
-sub5 = float(input("Enter marks for Subject 5: "))
-# Calculating total and percentage
-total_marks = sub1 + sub2 + sub3 + sub4 + sub5
-percentage = (total_marks / 500) * 100  # Assuming each subject is out of 100
+marks = []
+for i in range(5):
+    mark = float(input(f"Enter marks for subject {i+1}: "))
+    marks.append(mark)
+
+percentage = sum(marks) / len(marks)
 # Assigning grade using if-elif-else
 if percentage > 90:
     grade = 'A'
