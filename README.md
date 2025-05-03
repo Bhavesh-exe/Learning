@@ -10,7 +10,10 @@ It includes simple programs written in Python/C that help in understanding funda
 - ✅ Prime number check
 - ✅ Palindrome check
 - ✅ Fibonacci series
-- ✅ Pattern printing
+- ✅ Pattern Printing
+- ✅ Factors of a Number
+- ✅ Finding GCD of 2 Numbers
+- ✅ Sum of n Numbers
 - ✅ Simple recursion problems
 
 These programs are useful for beginners who are just starting with coding.
