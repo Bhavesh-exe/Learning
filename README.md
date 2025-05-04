@@ -16,6 +16,7 @@ It includes simple programs written in Python/C that help in understanding funda
 - ✅ Sum of n Numbers
 - ✅ Simple recursion problems
 - ✅ Printing Prime Numbers in Range
+- ✅ Armstrong Number
 
 These programs are useful for beginners who are just starting with coding.
 
