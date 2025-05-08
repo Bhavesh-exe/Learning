@@ -24,7 +24,8 @@ Here's a list of simple yet essential programs that cover basic logic and common
 - ✅ Sum of First N Numbers  
 - ✅ Simple Recursion Examples  
 - ✅ Prime Numbers in a Range  
-- ✅ Armstrong Number Checker  
+- ✅ Armstrong Number Checker
+- ✅ BMI Calculator
 
 All programs are short, clean, and beginner-friendly. Great for practice or quick reference!
 
