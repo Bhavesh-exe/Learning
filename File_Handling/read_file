@@ -1,0 +1,8 @@
+file_path = input('Enter file Name with extension: ')
+
+try:
+    with open(file_path, 'r') as file:
+        content = file.read()
+        print("File Content:\n", content)
+except FileNotFoundError:
+    print(f"File '{file_path}' not found.")
